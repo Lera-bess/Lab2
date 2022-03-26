@@ -1,0 +1,24 @@
+C:\Users\lerik\source\repos\kyrsovai\kyrsovai\bin\Debug\kyrsovai.exe.config
+C:\Users\lerik\source\repos\kyrsovai\kyrsovai\bin\Debug\kyrsovai.exe
+C:\Users\lerik\source\repos\kyrsovai\kyrsovai\bin\Debug\kyrsovai.pdb
+C:\Users\lerik\source\repos\kyrsovai\kyrsovai\obj\Debug\kyrsovai.csprojAssemblyReference.cache
+C:\Users\lerik\source\repos\kyrsovai\kyrsovai\obj\Debug\kyrsovai.Form1.resources
+C:\Users\lerik\source\repos\kyrsovai\kyrsovai\obj\Debug\kyrsovai.MDIParent1.resources
+C:\Users\lerik\source\repos\kyrsovai\kyrsovai\obj\Debug\kyrsovai.Properties.Resources.resources
+C:\Users\lerik\source\repos\kyrsovai\kyrsovai\obj\Debug\kyrsovai.csproj.GenerateResource.cache
+C:\Users\lerik\source\repos\kyrsovai\kyrsovai\obj\Debug\kyrsovai.csproj.CoreCompileInputs.cache
+C:\Users\lerik\source\repos\kyrsovai\kyrsovai\obj\Debug\kyrsovai.exe
+C:\Users\lerik\source\repos\kyrsovai\kyrsovai\obj\Debug\kyrsovai.pdb
+C:\Users\lerik\source\repos\kyrsovai\kyrsovai\obj\Debug\kyrsovai.About.resources
+C:\Мои файлы\lera\Предметы прошлых семестров\технологии программирования\kyrsovai\kyrsovai\bin\Debug\kyrsovai.exe.config
+C:\Мои файлы\lera\Предметы прошлых семестров\технологии программирования\kyrsovai\kyrsovai\bin\Debug\kyrsovai.exe
+C:\Мои файлы\lera\Предметы прошлых семестров\технологии программирования\kyrsovai\kyrsovai\bin\Debug\kyrsovai.pdb
+C:\Мои файлы\lera\Предметы прошлых семестров\технологии программирования\kyrsovai\kyrsovai\obj\Debug\kyrsovai.csproj.AssemblyReference.cache
+C:\Мои файлы\lera\Предметы прошлых семестров\технологии программирования\kyrsovai\kyrsovai\obj\Debug\kyrsovai.About.resources
+C:\Мои файлы\lera\Предметы прошлых семестров\технологии программирования\kyrsovai\kyrsovai\obj\Debug\kyrsovai.Form1.resources
+C:\Мои файлы\lera\Предметы прошлых семестров\технологии программирования\kyrsovai\kyrsovai\obj\Debug\kyrsovai.MDIParent1.resources
+C:\Мои файлы\lera\Предметы прошлых семестров\технологии программирования\kyrsovai\kyrsovai\obj\Debug\kyrsovai.Properties.Resources.resources
+C:\Мои файлы\lera\Предметы прошлых семестров\технологии программирования\kyrsovai\kyrsovai\obj\Debug\kyrsovai.csproj.GenerateResource.cache
+C:\Мои файлы\lera\Предметы прошлых семестров\технологии программирования\kyrsovai\kyrsovai\obj\Debug\kyrsovai.csproj.CoreCompileInputs.cache
+C:\Мои файлы\lera\Предметы прошлых семестров\технологии программирования\kyrsovai\kyrsovai\obj\Debug\kyrsovai.exe
+C:\Мои файлы\lera\Предметы прошлых семестров\технологии программирования\kyrsovai\kyrsovai\obj\Debug\kyrsovai.pdb
