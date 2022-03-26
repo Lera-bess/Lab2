@@ -28,8 +28,7 @@ namespace kyrsovai
             if (saveFileDialog1.ShowDialog() == DialogResult.OK)
             {
                 fileName = saveFileDialog1.FileName;
-                bitmap = bitmap;
-                // ошибка, переменная равна сама себе
+                
             }
             try
             {
