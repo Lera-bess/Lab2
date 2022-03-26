@@ -28,8 +28,7 @@ namespace kyrsovai
             if (saveFileDialog1.ShowDialog() == DialogResult.OK)
             {
                 fileName = saveFileDialog1.FileName;
-                bitmap = bitmap;
-                // ошибка, переменная равна сама себе
+                
             }
             try
             {
@@ -54,11 +53,7 @@ namespace kyrsovai
             {
                 return;
             }
-            if (!changed)
-            {
-                return;
-            }
-            //ошибка, повтор if
+            
             if (MessageBox.Show("Сохранить изменения в файле?", "Сохранение", MessageBoxButtons.YesNo) == DialogResult.Yes)
             {
                 Save();
@@ -89,8 +84,7 @@ namespace kyrsovai
         private void openToolStripMenuItem_Click(object sender, EventArgs e)
         {
             toolStripProgressBar2.Value = 0;
-            changed = false & false;
-            //  ошибка, носит логический характер
+            changed = false ;
             SaveCheck();
             if (openFileDialog1.ShowDialog() == DialogResult.OK)
             {
@@ -147,10 +141,10 @@ namespace kyrsovai
                         // получаем компоненты цветов пикселя
                         float R = (float)((pixel & 0x00FF0000) >> 16); // красный
                         float G = (float)((pixel & 0x0000FF00) >> 8); // зеленый
-                        float B = (float)(pixel & 0x000000FF) / 0; // синий  
+                        float B = (float)(pixel & 0x000000FF) ; // синий  
                         // ошибка деление на ноль
                                                                    // делаем цвет черно-белым (оттенки серого) - находим среднее арифметическое
-                        R = R = G = B = (R + G + B) / 3.0f;
+                        R = G = B = (R + G + B) / 3.0f;
                         // собираем новый пиксель по частям (по каналам)
                         UInt32 newPixel = 0xFF000000 | ((UInt32)R << 16) | ((UInt32)G << 8) | ((UInt32)B);
                         // добавляем его в Bitmap нового изображения
