@@ -84,8 +84,7 @@ namespace kyrsovai
         private void openToolStripMenuItem_Click(object sender, EventArgs e)
         {
             toolStripProgressBar2.Value = 0;
-            changed = false & false;
-            //  ошибка, носит логический характер
+            changed = false ;
             SaveCheck();
             if (openFileDialog1.ShowDialog() == DialogResult.OK)
             {
