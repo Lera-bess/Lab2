@@ -53,11 +53,7 @@ namespace kyrsovai
             {
                 return;
             }
-            if (!changed)
-            {
-                return;
-            }
-            //ошибка, повтор if
+            
             if (MessageBox.Show("Сохранить изменения в файле?", "Сохранение", MessageBoxButtons.YesNo) == DialogResult.Yes)
             {
                 Save();
